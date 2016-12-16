@@ -6,9 +6,9 @@
     "license": [
         "OSL-3.0"
     ],
-    "require": {
-        "payments/payments-php": "2.*"
-    },
+    //"require": {
+    //    "payments/payments-php": "2.*"
+    //},
     "extra": {
         "map": [
             [
