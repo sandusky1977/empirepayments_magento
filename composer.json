@@ -1,0 +1,20 @@
+{
+    "name": "empire/payments",
+    "description": "Empire integration for Magento 2",
+    "type": "magento2-module",
+    "version": "dev-master",
+    "license": [
+        "OSL-3.0"
+    ],
+    "require": {
+        "empire/payments-php": "2.*"
+    },
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Empire/Payments"
+            ]
+        ]
+    }
+}
