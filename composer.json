@@ -7,7 +7,7 @@
         "OSL-3.0"
     ],
     "require": {
-        "empire/payments-php": "2.*"
+        "empire/payments/payments-php": "2.*"
     },
     "extra": {
         "map": [
